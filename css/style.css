@@ -180,3 +180,8 @@ width: 1076px;
 .footer{
     text-align: center;
 }
+a:hover{
+    color: #ffffff;
+    background-color: var(--primary-400);
+    font-size: 19px;
+}
